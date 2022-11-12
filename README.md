@@ -2,7 +2,6 @@
 [![logo](https://github.com/lalatrade/lalatrade/blob/main/png/logo%231.png)](https://twitter.com/Solnce_actekov)
 
 <!-- div class="box" style="display: flex; justify-content: center; margin: auto;"  -->
-<div dir="auto" style="text-align: center;">
 <div style="display: block; text-align: center; margin: 0 auto;">
   
 [![Telegram](https://img.shields.io/badge/-Telegram-1A4468?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Solnce_actekov)
@@ -15,5 +14,5 @@
 [![Reddit](https://img.shields.io/badge/-Reddit-1A4468?style=for-the-badge&logo=Reddit&logoColor=1195F5)](https://www.reddit.com/user/Allalass)
 
 </div>
-</div>
+
 ![Ambassador+Nodes](https://github.com/lalatrade/lalatrade/blob/main/png/Amba%2Bnodes%233.png)
