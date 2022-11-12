@@ -22,7 +22,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-373534?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Solnce_actekov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-373534?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alla-sleptsova-8140a934/)
 [![Facebook](https://img.shields.io/badge/-Facebook-373534?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alla.sleptsova)
-[![Reddit](https://img.shields.io/badge/-Reddit-1373534?style=for-the-badge&logo=Reddit&logoColor=1195F5)](https://www.reddit.com/user/Allalass)
+[![Reddit](https://img.shields.io/badge/-Reddit-373534?style=for-the-badge&logo=Reddit&logoColor=1195F5)](https://www.reddit.com/user/Allalass)
 
 </div>
 
