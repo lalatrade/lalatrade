@@ -1,4 +1,5 @@
-[![logo](https://github.com/lalatrade/lalatrade/blob/main/png/logo.png)](https://twitter.com/Solnce_actekov)
+# Welcome!
+[![logo](https://github.com/lalatrade/lalatrade/blob/main/png/logo%231.png)](https://twitter.com/Solnce_actekov)
 
 <div style="text-align: center;">
 
@@ -12,6 +13,7 @@
 
 </div>
 
+
 <div style="text-align: center;">
 
 [![Telegram](https://img.shields.io/badge/-Telegram-373534?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Solnce_actekov)
@@ -20,8 +22,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-373534?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Solnce_actekov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-373534?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alla-sleptsova-8140a934/)
 [![Facebook](https://img.shields.io/badge/-Facebook-373534?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alla.sleptsova)
-[![Reddit](https://img.shields.io/badge/-Reddit-373534?style=for-the-badge&logo=Reddit&logoColor=1195F5)](https://www.reddit.com/user/Allalass)
+[![Reddit](https://img.shields.io/badge/-Reddit-1373534?style=for-the-badge&logo=Reddit&logoColor=1195F5)](https://www.reddit.com/user/Allalass)
 
 </div>
 
-![Ambassador+Nodes](https://github.com/lalatrade/lalatrade/blob/main/png/Amba%2Bnodes%232.png)
+![Ambassador+Nodes](https://github.com/lalatrade/lalatrade/blob/main/png/Amba%2Bnodes%233.png)
