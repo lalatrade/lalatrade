@@ -2,7 +2,7 @@
 [![logo](https://github.com/lalatrade/lalatrade/blob/main/png/logo%231.png)](https://twitter.com/Solnce_actekov)
 
 <!-- div class="box" style="display: flex; justify-content: center; margin: auto;"  -->
-<div class="box" style="display: block; justify-content: center; margin: 0 auto;">
+<div class="box" style="display: block; text-align: center; margin: 0 auto;">
   
  <!--  
 [![Telegram](https://img.shields.io/badge/-Telegram-1A4468?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Solnce_actekov)
