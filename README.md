@@ -4,7 +4,9 @@
 <!-- div class="box" style="display: flex; justify-content: center; margin: auto;"  -->
 <div class="box" style="display: flex; justify-content: right; margin: 0 auto; width: 100%;">
   
+ <!--  
 [![Telegram](https://img.shields.io/badge/-Telegram-1A4468?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Solnce_actekov)
+-->
 [![YouTube](https://img.shields.io/badge/-YouTube-1A4468?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCL4y9ck25cvjQxUqKklIKuA)
 [![Instagram](https://img.shields.io/badge/-Instagram-1A4468?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/solnce_actekov_)
 [![Twitter](https://img.shields.io/badge/-Twitter-1A4468?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Solnce_actekov)
