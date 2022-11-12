@@ -1,7 +1,7 @@
 # Welcome!
 [![logo](https://github.com/lalatrade/lalatrade/blob/main/png/logo%231.png)](https://twitter.com/Solnce_actekov)
 
-<div style="justify-content: center;">
+<div style="text-align: center; border: 1px solid;">
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1A4468?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Solnce_actekov)
 [![YouTube](https://img.shields.io/badge/-YouTube-1A4468?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCL4y9ck25cvjQxUqKklIKuA)
